@@ -1,5 +1,5 @@
 pcornfree_frontend/node_modules
-pcornfree_frontend/package-lock.json
+# pcornfree_frontend/package-lock.json
 
 HELP.md
 pcornfree_backend/.gradle
@@ -38,5 +38,8 @@ pcornfree_backend/.nb-gradle/
 
 ### VS Code ###
 pcornfree_backend/.vscode/
-pcornfree_frontend/.vscode/
+# pcornfree_frontend/.vscode/
 .vscode/
+
+### UNIX ###
+.DS_Store
