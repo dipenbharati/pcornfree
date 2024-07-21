@@ -1,0 +1,42 @@
+pcornfree_frontend/node_modules
+pcornfree_frontend/package-lock.json
+
+HELP.md
+pcornfree_backend/.gradle
+pcornfree_backend/build/
+!pcornfree_backend/gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### STS ###
+pcornfree_backend/.apt_generated
+pcornfree_backend/.classpath
+pcornfree_backend/.factorypath
+pcornfree_backend/.project
+pcornfree_backend/.settings
+pcornfree_backend/.springBeans
+pcornfree_backend/.sts4-cache
+pcornfree_backend/bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### IntelliJ IDEA ###
+pcornfree_backend/.idea
+*.iws
+*.iml
+*.ipr
+pcornfree_backend/out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### NetBeans ###
+pcornfree_backend/nbproject/private/
+pcornfree_backend/nbbuild/
+pcornfree_backend/dist/
+pcornfree_backend/nbdist/
+pcornfree_backend/.nb-gradle/
+
+### VS Code ###
+pcornfree_backend/.vscode/
+pcornfree_frontend/.vscode/
+.vscode/
